@@ -8,6 +8,7 @@ public class GitClassTesting {
 		System.out.println("test line 2");
 		System.out.println("test line 3");
 		System.out.println("test line 4");
+		System.out.println("test line 5");
 		
 	}
 }
