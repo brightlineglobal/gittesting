@@ -13,6 +13,7 @@ public class GitClassTesting {
 		System.out.println("test line 7");
 		System.out.println("test line 8 from github");
 		System.out.println("let's try last one");
+		System.out.println("let's try last last time");
 		
 	}
 }
