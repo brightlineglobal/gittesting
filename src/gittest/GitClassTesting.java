@@ -1,7 +1,7 @@
 package gittest;
 
 public class GitClassTesting {
-
+//why not
 	
 	public static void main (String [] args) {
 		System.out.println("test line 1");
